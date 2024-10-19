@@ -1,3 +1,6 @@
 # DATA_SCIENCE_PROJECTS
 This is my repository that would contain all projects, assignments and labs related to my Data Science program.
 My first assignment is an article on the case study that I did on Costco where I designed a database for Costco Corporation. The Costco database is designed to manage and analyze key business operations, including member information, orders, transactions, and product inventory. It facilitates efficient tracking of sales and customer interactions, enabling data-driven decision-making for improved service and inventory management. [Case study article](https://github.com/arlingeo99/DATA_SCIENCE_PROJECTS/blob/main/Costco_Database_Design_Article.pdf)
+
+
+This is my second article and I have opted NYC Taxi Fare dataset to explore and analyse to create an analytic solution based on the analysis. The dataset was derived from Kaggle. This article examines NYC taxi fare data using a Power BI dashboard, emphasizing crucial variables such as total revenue and average trip distance. The visualizations demonstrate substantial patterns in passenger behavior and pricing changes. This investigation attempts to improve taxi services' decision-making and operational efficiency. [NYC Taxi Fare Article]()
