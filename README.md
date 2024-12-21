@@ -8,3 +8,7 @@ This is my second article and I have opted NYC Taxi Fare dataset to explore and 
 
 
 This is my first article, where I explored and designed a cloud-based architecture for a retail and e-commerce business named EasyMart. The study focuses on integrating data sources such as POS systems, e-commerce transactions, geolocation data, and customer feedback using Microsoft Azure services. By employing a structured Bronze-Silver-Gold pipeline, the solution transforms raw data into actionable insights to optimize inventory, enhance marketing strategies, and improve operational efficiency. [Easy Mart-Cloud Architecture Article](https://github.com/arlingeo99/DATA_SCIENCE_PROJECTS/blob/master/EasyMart-Cloud%20Architecture%20Article-.pdf)
+
+
+Marketing Dashboard for Pacific Airlines
+This marketing dashboard provides insights into key performance indicators (KPIs) related to customer engagement and booking trends for Pacific Airlines. The dashboard focuses on analyzing booking patterns, and customer behavior, allowing stakeholders to make informed decisions on targeted marketing strategies. It includes visualizations of booking volume by day, popular flight routes, and revenue generation, with a particular emphasis on identifying growth opportunities and customer preferences. The dashboard is designed to support the airline’s marketing team in refining promotional campaigns and optimizing customer acquisition efforts.[Pacific Airlines Marketing Dashboard](https://github.com/arlingeo99/DATA_SCIENCE_PROJECTS/blob/master/EasyMart-Cloud%20Architecture%20Article-.pdf)
