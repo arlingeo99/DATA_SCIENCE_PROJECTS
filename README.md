@@ -7,6 +7,7 @@ This is my first article, where I explored and designed a cloud-based architectu
 
 
 This is my second article and I have opted NYC Taxi Fare dataset to explore and analyse to create an analytic solution based on the analysis. The dataset was derived from Kaggle. This article examines NYC taxi fare data using a Power BI dashboard, emphasizing crucial variables such as total revenue and average trip distance. The visualizations demonstrate substantial patterns in passenger behavior and pricing changes. This investigation attempts to improve taxi services' decision-making and operational efficiency. [NYC Taxi Fare Article](https://github.com/arlingeo99/DATA_SCIENCE_PROJECTS/blob/master/NYC_TAXI_FARE_REPORT.pdf)
+[NYC Taxi Fare Dashboard](https://app.powerbi.com/groups/me/reports/7b14b477-01d5-4882-b964-828f1ad70850/b075d42b182273ae0083?experience=power-bi)
 
 
 Marketing Dashboard for Pacific Airlines
